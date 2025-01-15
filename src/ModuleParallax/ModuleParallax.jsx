@@ -68,7 +68,7 @@ export function ModuleParallax() {
   title="VAMOS A LEER"
   text="Read es una aplicación interactiva diseñada para motivar a los niños a leer. Permite a los profesores verificar en tiempo real si los estudiantes completaron sus lecturas y su progreso en cada cuento disponible. Además, los resultados pueden enviarse automáticamente a los acudientes, manteniéndolos informados sobre el desempeño de sus hijos. Es una herramienta educativa que combina interacción y seguimiento en tiempo real para mejorar el hábito de la lectura."
   imageUrl="https://res.cloudinary.com/dzubhlegp/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1736289039/read_x0gqul.png"
-  liveSiteUrl="https://www.loom.com/share/1a03fb056cc54c9c8ae3c8f3be1392a8?sid=ec09e87c-49e1-442f-adbd-a15bd82a395d"
+  liveSiteUrl="https://proyecto-demoday-7ryu000.vercel.app/Login"
   githubUrl="https://github.com/sebastian12j/proyectoDemoday.git"
 />
 <BasicExample
